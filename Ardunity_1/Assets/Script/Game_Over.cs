@@ -7,7 +7,7 @@ using UnityEngine.SceneManagement;
 public class Game_Over : MonoBehaviour {
 
     public GameObject gameOverScreen;
-    public TextMesh ResultUI;
+    public Text ResultUI;
     bool gameOver;
 
     void Start()
